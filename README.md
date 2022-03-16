@@ -17,7 +17,7 @@ A glimpse of the web app:
 
 The  Vehicle Object Detection is a flask web application developed with Tensorflow Object Detection version 1.4 which detects 'aeroplane', 'car', 'auto', 'boat', 'bike', 'bus', 'bicycle', 'ship', 'train', 'scooty','truck'.
 
-To install the required packages and libraries, run this command in the project directory after [cloning]() the repository:
+To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/laijupjoy/Vehicle-Object-Detection-using-TFODv1.x) the repository:
 ```bash
 pip install -r requirements.txt
 ```
@@ -34,5 +34,5 @@ python app.py
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/laijupjoy/Vehicle-Object-Detection-using-TFODv1.x/issues) here by including your search query and the expected result
 
